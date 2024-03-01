@@ -1,0 +1,1 @@
+i know user/bin is kindof for this, but this takes the user specificity to that more clear and obvious place.
