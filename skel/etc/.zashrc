@@ -1,6 +1,4 @@
-  GNU nano 7.2                                                            /home/c_j/.zshrc                                                                      
 PROMPT='%{\e[38;5;200m%}%n@%m %1~ %#%{\e[0m%} '
-
 
 alias ll='ls -la'
 alias la='ls -A'
